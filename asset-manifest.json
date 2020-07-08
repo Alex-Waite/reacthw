@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacthw/static/css/main.c915f7a3.chunk.css",
+    "main.js": "/reacthw/static/js/main.034a28c9.chunk.js",
+    "main.js.map": "/reacthw/static/js/main.034a28c9.chunk.js.map",
+    "runtime-main.js": "/reacthw/static/js/runtime-main.cca8cd48.js",
+    "runtime-main.js.map": "/reacthw/static/js/runtime-main.cca8cd48.js.map",
+    "static/js/2.f5301ecb.chunk.js": "/reacthw/static/js/2.f5301ecb.chunk.js",
+    "static/js/2.f5301ecb.chunk.js.map": "/reacthw/static/js/2.f5301ecb.chunk.js.map",
+    "index.html": "/reacthw/index.html",
+    "precache-manifest.0a3a1f427d706ad8e1cb4a34555aacd8.js": "/reacthw/precache-manifest.0a3a1f427d706ad8e1cb4a34555aacd8.js",
+    "service-worker.js": "/reacthw/service-worker.js",
+    "static/css/main.c915f7a3.chunk.css.map": "/reacthw/static/css/main.c915f7a3.chunk.css.map",
+    "static/js/2.f5301ecb.chunk.js.LICENSE.txt": "/reacthw/static/js/2.f5301ecb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reacthw/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca8cd48.js",
+    "static/js/2.f5301ecb.chunk.js",
+    "static/css/main.c915f7a3.chunk.css",
+    "static/js/main.034a28c9.chunk.js"
+  ]
+}
