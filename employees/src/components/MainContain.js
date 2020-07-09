@@ -34,11 +34,11 @@ class MainContain extends React.Component {
     <div className="MainContain">
         <Jumbotron />
         <div className="container">
-        <Table />
-        {this.state.Employees.map(({ picture, name, cell, location, id }) => (
-                        <UserRow image={picture.thumbnail} name={name} contact={cell} address={location} key={id.value} />
-                    ))}
-                    </div>
+            <Table />
+            {this.state.Employees.map(({ picture, name, phone, nat, id, dob}) => (
+                <UserRow pic={picture.thumbnail} fname={name.first} lname={name.last} phnum={phone} nat={nat} age={dob.age} key={id.value} />
+            ))}
+        </div>
     </div>
     )}
 }
